@@ -1,0 +1,11 @@
+{
+    "name": "jesterstest",
+    "version": "1.0.0",
+    "main": "Test.js",
+    "scripts": {
+      "test": "node Test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
